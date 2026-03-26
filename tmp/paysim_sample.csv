@@ -1,0 +1,3 @@
+step,type,amount,nameOrig,nameDest,oldbalanceOrg,newbalanceOrig,oldbalanceDest,newbalanceDest,isFraud
+1,TRANSFER,1250.0,C123,M456,2000.0,700.0,300.0,1550.0,1
+2,CASH_OUT,210.0,C124,M457,500.0,290.0,100.0,310.0,0
