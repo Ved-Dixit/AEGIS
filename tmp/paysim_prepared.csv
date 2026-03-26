@@ -1,3 +1,0 @@
-transaction_id,invoice_id,buyer_id,supplier_id,lender_id,product_id,quantity,unit_price,invoice_amount,loan_amount,invoice_date,due_date,payment_term_days,shipment_distance_km,buyer_risk_rating,supplier_risk_rating,historic_late_payments,prior_financing_count,channel,currency,is_fraud,fraud_type
-ps_txn_0000000,ps_inv_0000000,C123,M456,PAYSIM_TRANSFER,TRANSFER,1.0,1250.0,1250.0,1125.0,2024-01-01 01:00:00,2024-01-02 01:00:00,1,0.0,1.0,1.0,1,9,mobile_money,USD,1,mobile_money_fraud
-ps_txn_0000001,ps_inv_0000001,C124,M457,PAYSIM_CASH_OUT,CASH_OUT,1.0,210.0,210.0,189.0,2024-01-01 02:00:00,2024-01-02 02:00:00,1,0.0,0.0,0.0,2,0,mobile_money,USD,0,legit

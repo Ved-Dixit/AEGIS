@@ -6,4 +6,5 @@ artifacts/data/*.csv
 artifacts/data/raw/
 artifacts/models/*.joblib
 artifacts/*.sqlite3
+artefacts/
 tmp/
