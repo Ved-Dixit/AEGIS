@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+artifacts/data/*.csv
+artifacts/data/raw/
+artifacts/models/*.joblib
+artifacts/*.sqlite3
+tmp/
